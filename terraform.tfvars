@@ -1,0 +1,5 @@
+vpc_id        = "vpc-0816394cafdde6a0f"
+instance_type = "t2.micro"
+ami           = "ami-0317b0f0a0144b137"
+key_pair      = "dev"
+subnet_id     = "subnet-0de836eb02e4011f7"
